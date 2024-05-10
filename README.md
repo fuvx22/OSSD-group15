@@ -6,6 +6,9 @@ Python 3.7.x
 To install, open a command prompt and launch:
 ```bash
 git clone https://github.com/fuvx22/OSSD-group15.git
+```
+Install required dependencies:
+```bash
 pip install -r requirements.txt
 ```
 ## Use
