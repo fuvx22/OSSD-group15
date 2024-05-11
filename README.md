@@ -17,4 +17,4 @@ To use, open a command prompt and launch:
 python detect_mask_video.py
 ```
 ## Report
-[File report](OOSD_nhom15_baocao.pdf)
+Link báo cáo: [Báo cáo](https://www.overleaf.com/read/mhypgpysdvqm#1edb70).
