@@ -16,3 +16,5 @@ To use, open a command prompt and launch:
 ```bash
 python detect_mask_video.py
 ```
+## Report
+[File report](OOSD_nhom15_baocao.pdf)
